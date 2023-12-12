@@ -1,4 +1,8 @@
-ShortiFy:User Authentication:
+ShortiFy:
+            The URL Shortening describes an online service that takes long URLs and squeezes them into fewer characters or QR Code to make the link easier.
+
+
+User Authentication:
 1.	Signup Page:
     •	Collect user information, including email, name, and password.
     •	Validate and store user data securely in the database.
